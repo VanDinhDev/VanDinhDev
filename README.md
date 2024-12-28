@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
     
 <div align="center"> 
   <img width="100" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" > 
@@ -69,9 +61,6 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <a href="#" title="vandinh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=VanDinhDev&theme=omni&hide_border=true&include_all_commits=false&count_private=false" />
-  </a>
   <a href="#" title="vandinh">
     <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinhDev&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="center"/>
   </a>
